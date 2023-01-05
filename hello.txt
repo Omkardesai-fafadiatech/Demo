@@ -1,3 +1,3 @@
 Hello 
-This is a demo file before  stash.
+This is a demo file for stash.
 
