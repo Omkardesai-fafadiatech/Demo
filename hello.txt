@@ -1,3 +1,2 @@
 Hello 
-This is a demo file before  stash.
-
+This is first commit in develop branch.
